@@ -98,27 +98,6 @@ This is the rough path I'm following:
 
 ---
 
-## 📊 Progress
-
-I'm keeping this section simple and updating it as I go.
-
-| Topic               | Problems Solved |
-| ------------------- | :-------------: |
-| Arrays              |       `1`       |
-| Strings             |       `0`       |
-| Linked Lists        |       `0`       |
-| Stacks & Queues     |       `0`       |
-| Hashing             |       `1`       |
-| Trees               |       `0`       |
-| Graphs              |       `0`       |
-| Dynamic Programming |       `0`       |
-
-**Total Problems Solved: 1**
-
-> 🚧 This is a work in progress.
-
----
-
 ## 💻 Language
 
 Most of my solutions are currently written in:
